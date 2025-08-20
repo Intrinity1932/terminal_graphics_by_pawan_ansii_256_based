@@ -1,4 +1,4 @@
-````markdown
+```cpp
 # terminal_graphics_by_pawan_ansii_256_based
 
 A minimal, low-level toolkit for **256-color terminal graphics** using pure ANSI escape codes (**48;5** only).  
