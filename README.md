@@ -1,4 +1,4 @@
-`````markdown
+````markdown
 # terminal_graphics_by_pawan_ansii_256_based
 
 A minimal, low-level toolkit for **256-color terminal graphics** using pure ANSI escape codes (**48;5** only).  
@@ -88,6 +88,8 @@ No dependencies. No hidden state. You tell the terminal what to draw — it draw
 ---
 
 ## Shape roadmap (math-driven, 48;5 only)
+
+You said circles — we’ll earn them properly. Target algorithms (no floating spam):
 
 * **Lines:** Bresenham (integer error accumulation).
 * **Rectangles:** filled and outlined (already grounded).
